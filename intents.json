@@ -1,0 +1,13 @@
+{"intents": [
+  {"tag": "greeting",
+  "patterns": ["Hi", "Hello", "What's up", "Hey", "Hola", "Howdy"],
+  "responses": ["Hi", "Hello", "What's up", "Hey", "How can I help", "Hi there", "What can I do for you"]
+  },
+  {"tag": "goodbye",
+     "patterns": ["Bye", "See you later", "Goodbye", "later", "farewell", "bye-bye", "so long"],
+     "responses": ["See you later", "Have a nice day", "Bye", "Goodbye"]
+  },
+  {"tag": "time",
+   "patterns": ["What time is it", "What's the time", "time please"],
+   "responses": []
+},]}

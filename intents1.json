@@ -1,0 +1,13 @@
+{"intents": [
+  {"tag": "intro",
+  "patterns": ["Hi", "Hello", "What's up", "Hey", "Hola", "Howdy"],
+  "responses": ["Praharsha","Santhoshi"]
+  },
+  {"tag": "goodbye",
+     "patterns": ["Bye", "See you later", "Goodbye", "later", "farewell", "bye-bye", "so long"],
+     "responses": ["Shivani","Guna"]
+  },
+  {"tag": "time",
+   "patterns": ["What time is it", "What's the time", "time please"],
+   "responses": ["Dinesh","Thanuj"]
+}]}
